@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\monta\\Desktop\\Playgroud\\Curso Full Stack\\dotnetCore\\ProAgil.web\\ProAgil.web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\monta\\Desktop\\Playgroud\\Curso Full Stack\\dotnetCore\\ProAgil.web\\ProAgil.web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\monta\\Desktop\\Playgroud\\Curso Full Stack\\dotnetCore\\ProAgil.web\\ProAgil.web.csproj",
+        "projectName": "ProAgil.web",
+        "projectPath": "C:\\Users\\monta\\Desktop\\Playgroud\\Curso Full Stack\\dotnetCore\\ProAgil.web\\ProAgil.web.csproj",
+        "packagesPath": "C:\\Users\\monta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\monta\\Desktop\\Playgroud\\Curso Full Stack\\dotnetCore\\ProAgil.web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\monta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/devopssee/_packaging/SEE%40Local/nuget/v3/index.json": {},
+          "https://seducsp.pkgs.visualstudio.com/_packaging/SEDUC/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
